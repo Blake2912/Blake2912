@@ -1,5 +1,5 @@
 ### Hi there 👋 I am K C Varun
-- 🔭 I’m currently working on Android Development using Java
+- 🔭 I’m currently working on Android Development
 - 🌱 I’m currently learning React and Django
 - 🚀 Languages that I am familiar with C++,Python,Java and Kotlin
 <img src="https://github-readme-stats.vercel.app/api?username=Blake2912&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=2A005E">
