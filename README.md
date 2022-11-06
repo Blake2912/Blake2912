@@ -9,7 +9,7 @@
   <a href="http://twitter.com/varun_kc_29">
     <img src="https://img.shields.io/twitter/follow/varun_kc_29?color=%230062cc&style=for-the-badge&label=Follow%20me%20on%20Twitter" />
   </a>
-  <a href="http://twitter.com/Blake2912">
+  <a href="http://github.com/Blake2912">
     <img src="https://img.shields.io/github/followers/blake2912?label=Follow%20me%20on%20GitHub&style=for-the-badge" />
   </a>
 </p>
