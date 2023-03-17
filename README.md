@@ -1,7 +1,8 @@
 ### Hi there 👋 I am K C Varun
-- 🔭 I’m currently working on Android Development
-- 🌱 I’m currently learning React
+- 🔭 I’m currently working on DotNET and EntityFramework
+- 🌱 I’m currently learning C#
 - 🚀 Languages that I am familiar with C++,Python,Java and Kotlin
+- ⌚️ Technologies/Frameworks that I am familiar with Android Development, Django REST-APIs, React, Flask, Unity
 <img src="https://github-readme-stats.vercel.app/api?username=Blake2912&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=2A005E">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blake2912&layout=compact&theme=radical">
 - 📫 How to reach me:
