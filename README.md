@@ -1,5 +1,5 @@
 ### Hi there 👋 I am K C Varun
-- 🔭 I’m currently working on DotNET and EntityFramework
+- 🔭 I’m currently working on .NET and EntityFramework
 - 🌱 I’m currently learning C#
 - 🚀 Languages that I am familiar with C++,Python,Java and Kotlin
 - ⌚️ Technologies/Frameworks that I am familiar with Android Development, Django REST-APIs, React, Flask, Unity
