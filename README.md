@@ -10,7 +10,7 @@
 ### Techonologies and Frameworks
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,c,vim,python,kotlin,java,js,html,css,react,flask,django,bash,dotnet,github,linux,postman,regex,unity,raspberrypi" />
+    <img src="https://skillicons.dev/icons?i=git,docker,c,cs,cpp,vim,python,androidstudio,kotlin,java,js,html,css,react,flask,django,bash,dotnet,github,linux,postman,regex,unity,raspberrypi,figma,idea&perline=13" />
   </a>
 </p>
 
