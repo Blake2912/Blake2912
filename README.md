@@ -1,6 +1,6 @@
 ### Hi there 👋 I am K C Varun
-- 🔭 I’m currently working on .NET and EntityFramework
-- 🌱 I’m currently learning C#
+- 🔭 I’m currently working on .NET and EntityFramework and C#
+- 🌱 I’m currently learning Go
 - 🚀 Languages that I am familiar with C++,Python,Java and Kotlin
   
 ### Techonologies and Frameworks
