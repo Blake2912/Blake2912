@@ -2,8 +2,7 @@
 - 🔭 I’m currently working on .NET and EntityFramework
 - 🌱 I’m currently learning C#
 - 🚀 Languages that I am familiar with C++,Python,Java and Kotlin
-
-<img src="https://streak-stats.demolab.com/?user=Blake2912&theme=highcontrast&border_radius=4">
+- 
 <!--https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=adityaseth777&&show_icons=true&theme=dark-->
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Blake2912&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=2A005E">
 
